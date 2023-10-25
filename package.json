@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jon-freed.simple-drag-and-drop-fork-lo5r13ez",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ZJgtGzaqyULzQf7w0S7H --open"
+  }
+}
